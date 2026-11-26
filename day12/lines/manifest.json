@@ -1,0 +1,224 @@
+{
+ "level": "A1",
+ "day": 12,
+ "count": 36,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day12-line001.mp3",
+   "en": "Good morning, Omar! You look tired today.",
+   "bytes": 28224
+  },
+  {
+   "line": 2,
+   "file": "day12-line002.mp3",
+   "en": "Good morning, Sara. Yes, I went to bed very late.",
+   "bytes": 33792
+  },
+  {
+   "line": 3,
+   "file": "day12-line003.mp3",
+   "en": "What time do you usually wake up?",
+   "bytes": 24384
+  },
+  {
+   "line": 4,
+   "file": "day12-line004.mp3",
+   "en": "I wake up at seven o'clock, but today I woke up at eight.",
+   "bytes": 42432
+  },
+  {
+   "line": 5,
+   "file": "day12-line005.mp3",
+   "en": "That's late! Do you eat breakfast at home?",
+   "bytes": 26688
+  },
+  {
+   "line": 6,
+   "file": "day12-line006.mp3",
+   "en": "Usually yes, we eat breakfast together, but today I had no time.",
+   "bytes": 49344
+  },
+  {
+   "line": 7,
+   "file": "day12-line007.mp3",
+   "en": "I see. How do you go to work?",
+   "bytes": 24768
+  },
+  {
+   "line": 8,
+   "file": "day12-line008.mp3",
+   "en": "I go to work by bus. The bus comes at eight thirty.",
+   "bytes": 38208
+  },
+  {
+   "line": 9,
+   "file": "day12-line009.mp3",
+   "en": "I take the metro. It is faster for me.",
+   "bytes": 26112
+  },
+  {
+   "line": 10,
+   "file": "day12-line010.mp3",
+   "en": "Lucky you! I start work at nine, and the bus is slow.",
+   "bytes": 46272
+  },
+  {
+   "line": 11,
+   "file": "day12-line011.mp3",
+   "en": "What do you do in the morning at work?",
+   "bytes": 25344
+  },
+  {
+   "line": 12,
+   "file": "day12-line012.mp3",
+   "en": "First I check my emails, then I drink coffee.",
+   "bytes": 36864
+  },
+  {
+   "line": 13,
+   "file": "day12-line013.mp3",
+   "en": "Nice. Do you take a shower in the morning?",
+   "bytes": 29184
+  },
+  {
+   "line": 14,
+   "file": "day12-line014.mp3",
+   "en": "Yes, I take a shower before work every day.",
+   "bytes": 30144
+  },
+  {
+   "line": 15,
+   "file": "day12-line015.mp3",
+   "en": "Me too. And when do you have lunch?",
+   "bytes": 28032
+  },
+  {
+   "line": 16,
+   "file": "day12-line016.mp3",
+   "en": "We have lunch at one o'clock in the office.",
+   "bytes": 31872
+  },
+  {
+   "line": 17,
+   "file": "day12-line017.mp3",
+   "en": "Do you cook your lunch at home?",
+   "bytes": 18048
+  },
+  {
+   "line": 18,
+   "file": "day12-line018.mp3",
+   "en": "No, I buy it near the office. Do you cook?",
+   "bytes": 31872
+  },
+  {
+   "line": 19,
+   "file": "day12-line019.mp3",
+   "en": "Yes, I love cooking new recipes on Friday.",
+   "bytes": 31488
+  },
+  {
+   "line": 20,
+   "file": "day12-line020.mp3",
+   "en": "That's a nice hobby! I play football with my friends on Friday.",
+   "bytes": 35712
+  },
+  {
+   "line": 21,
+   "file": "day12-line021.mp3",
+   "en": "Great! What time do you come home?",
+   "bytes": 23808
+  },
+  {
+   "line": 22,
+   "file": "day12-line022.mp3",
+   "en": "I come home at six, then I rest a little.",
+   "bytes": 35712
+  },
+  {
+   "line": 23,
+   "file": "day12-line023.mp3",
+   "en": "What do you do in the evening?",
+   "bytes": 20544
+  },
+  {
+   "line": 24,
+   "file": "day12-line024.mp3",
+   "en": "We cook dinner in the evening and watch movies.",
+   "bytes": 33984
+  },
+  {
+   "line": 25,
+   "file": "day12-line025.mp3",
+   "en": "We watch movies on Friday too! It's our family habit.",
+   "bytes": 31872
+  },
+  {
+   "line": 26,
+   "file": "day12-line026.mp3",
+   "en": "That's lovely. Do you go to bed early?",
+   "bytes": 28608
+  },
+  {
+   "line": 27,
+   "file": "day12-line027.mp3",
+   "en": "Yes, I go to bed at eleven. And you?",
+   "bytes": 32448
+  },
+  {
+   "line": 28,
+   "file": "day12-line028.mp3",
+   "en": "Usually at twelve, but I should sleep earlier.",
+   "bytes": 36864
+  },
+  {
+   "line": 29,
+   "file": "day12-line029.mp3",
+   "en": "Sleep is important! A good routine helps a lot.",
+   "bytes": 36672
+  },
+  {
+   "line": 30,
+   "file": "day12-line030.mp3",
+   "en": "You are right. I will try your routine.",
+   "bytes": 26304
+  },
+  {
+   "line": 31,
+   "file": "day12-line031.mp3",
+   "en": "Try it for one week and tell me.",
+   "bytes": 24768
+  },
+  {
+   "line": 32,
+   "file": "day12-line032.mp3",
+   "en": "Okay, I will. Thank you for the advice, Sara.",
+   "bytes": 33024
+  },
+  {
+   "line": 33,
+   "file": "day12-line033.mp3",
+   "en": "You are welcome, Omar. See you tomorrow at work!",
+   "bytes": 31104
+  },
+  {
+   "line": 34,
+   "file": "day12-line034.mp3",
+   "en": "See you! Have a nice evening.",
+   "bytes": 18624
+  },
+  {
+   "line": 35,
+   "file": "day12-line035.mp3",
+   "en": "You too. Don't forget to sleep early tonight!",
+   "bytes": 29184
+  },
+  {
+   "line": 36,
+   "file": "day12-line036.mp3",
+   "en": "I won't! Good night, Sara.",
+   "bytes": 19968
+  }
+ ]
+}

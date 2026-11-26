@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 17,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day17-line001.mp3",
+   "en": "She is wearing a red dress.",
+   "bytes": 23808
+  },
+  {
+   "line": 2,
+   "file": "day17-line002.mp3",
+   "en": "I bought a new blue shirt.",
+   "bytes": 25152
+  },
+  {
+   "line": 3,
+   "file": "day17-line003.mp3",
+   "en": "These shoes are very comfortable.",
+   "bytes": 19968
+  },
+  {
+   "line": 4,
+   "file": "day17-line004.mp3",
+   "en": "He likes black jackets.",
+   "bytes": 19392
+  },
+  {
+   "line": 5,
+   "file": "day17-line005.mp3",
+   "en": "What color is your bag?",
+   "bytes": 18624
+  },
+  {
+   "line": 6,
+   "file": "day17-line006.mp3",
+   "en": "This coat is too big for me.",
+   "bytes": 27264
+  },
+  {
+   "line": 7,
+   "file": "day17-line007.mp3",
+   "en": "She wears glasses when she reads.",
+   "bytes": 22464
+  },
+  {
+   "line": 8,
+   "file": "day17-line008.mp3",
+   "en": "I need a white T-shirt.",
+   "bytes": 23808
+  },
+  {
+   "line": 9,
+   "file": "day17-line009.mp3",
+   "en": "His pants are brown.",
+   "bytes": 15168
+  },
+  {
+   "line": 10,
+   "file": "day17-line010.mp3",
+   "en": "The green skirt looks nice.",
+   "bytes": 20352
+  }
+ ]
+}

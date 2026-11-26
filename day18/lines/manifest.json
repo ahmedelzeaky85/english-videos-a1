@@ -1,0 +1,212 @@
+{
+ "level": "A1",
+ "day": 18,
+ "count": 34,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day18-line001.mp3",
+   "en": "Hi Omar! Are you free this Friday?",
+   "bytes": 24192
+  },
+  {
+   "line": 2,
+   "file": "day18-line002.mp3",
+   "en": "Hi Sara! Yes, Friday is our family day. We visit my grandmother.",
+   "bytes": 45504
+  },
+  {
+   "line": 3,
+   "file": "day18-line003.mp3",
+   "en": "Nice! What time do you usually go?",
+   "bytes": 25152
+  },
+  {
+   "line": 4,
+   "file": "day18-line004.mp3",
+   "en": "We leave at ten in the morning and come back in the evening.",
+   "bytes": 40512
+  },
+  {
+   "line": 5,
+   "file": "day18-line005.mp3",
+   "en": "What is the weather like these days?",
+   "bytes": 22848
+  },
+  {
+   "line": 6,
+   "file": "day18-line006.mp3",
+   "en": "It is getting cold. Winter is coming.",
+   "bytes": 32064
+  },
+  {
+   "line": 7,
+   "file": "day18-line007.mp3",
+   "en": "Then wear something warm. Your brown coat looks nice!",
+   "bytes": 30528
+  },
+  {
+   "line": 8,
+   "file": "day18-line008.mp3",
+   "en": "Thanks! And your red dress is beautiful.",
+   "bytes": 32832
+  },
+  {
+   "line": 9,
+   "file": "day18-line009.mp3",
+   "en": "Thank you! How is your grandmother now?",
+   "bytes": 27264
+  },
+  {
+   "line": 10,
+   "file": "day18-line010.mp3",
+   "en": "She had a headache last week, but she feels much better now.",
+   "bytes": 38784
+  },
+  {
+   "line": 11,
+   "file": "day18-line011.mp3",
+   "en": "I am happy to hear that. Does she take medicine?",
+   "bytes": 31872
+  },
+  {
+   "line": 12,
+   "file": "day18-line012.mp3",
+   "en": "Yes, she takes medicine twice a day and sleeps well.",
+   "bytes": 40512
+  },
+  {
+   "line": 13,
+   "file": "day18-line013.mp3",
+   "en": "Good. Health is the most important thing.",
+   "bytes": 33408
+  },
+  {
+   "line": 14,
+   "file": "day18-line014.mp3",
+   "en": "You are right. Do you visit your family every week?",
+   "bytes": 33408
+  },
+  {
+   "line": 15,
+   "file": "day18-line015.mp3",
+   "en": "Yes, we visit my parents every Friday. My mother cooks very well.",
+   "bytes": 46848
+  },
+  {
+   "line": 16,
+   "file": "day18-line016.mp3",
+   "en": "What does she cook?",
+   "bytes": 13824
+  },
+  {
+   "line": 17,
+   "file": "day18-line017.mp3",
+   "en": "She makes the best molokhia in Egypt!",
+   "bytes": 30912
+  },
+  {
+   "line": 18,
+   "file": "day18-line018.mp3",
+   "en": "Haha, I love molokhia. Do you go by car?",
+   "bytes": 41664
+  },
+  {
+   "line": 19,
+   "file": "day18-line019.mp3",
+   "en": "Yes, my father drives. He works in a hospital, so Friday is his day off.",
+   "bytes": 57024
+  },
+  {
+   "line": 20,
+   "file": "day18-line020.mp3",
+   "en": "My father works in a school. He likes his job.",
+   "bytes": 38208
+  },
+  {
+   "line": 21,
+   "file": "day18-line021.mp3",
+   "en": "Do your brothers come with you?",
+   "bytes": 17472
+  },
+  {
+   "line": 22,
+   "file": "day18-line022.mp3",
+   "en": "Yes, my two brothers and my sister come. We have fun together.",
+   "bytes": 40704
+  },
+  {
+   "line": 23,
+   "file": "day18-line023.mp3",
+   "en": "That is a big family! Do you buy gifts for your grandmother?",
+   "bytes": 37632
+  },
+  {
+   "line": 24,
+   "file": "day18-line024.mp3",
+   "en": "Sometimes. Last week I bought her a green scarf.",
+   "bytes": 35328
+  },
+  {
+   "line": 25,
+   "file": "day18-line025.mp3",
+   "en": "Green is a beautiful color. She must love it.",
+   "bytes": 34752
+  },
+  {
+   "line": 26,
+   "file": "day18-line026.mp3",
+   "en": "She does. She wears it every day.",
+   "bytes": 26304
+  },
+  {
+   "line": 27,
+   "file": "day18-line027.mp3",
+   "en": "Listen, Omar, next Friday my family has a small party. Would you like to come?",
+   "bytes": 46272
+  },
+  {
+   "line": 28,
+   "file": "day18-line028.mp3",
+   "en": "Really? I would love to! What time?",
+   "bytes": 28992
+  },
+  {
+   "line": 29,
+   "file": "day18-line029.mp3",
+   "en": "At seven in the evening. We eat, drink tea, and talk.",
+   "bytes": 37824
+  },
+  {
+   "line": 30,
+   "file": "day18-line030.mp3",
+   "en": "That sounds great. Should I wear something special?",
+   "bytes": 32448
+  },
+  {
+   "line": 31,
+   "file": "day18-line031.mp3",
+   "en": "Just a nice shirt. Your blue one is great.",
+   "bytes": 29952
+  },
+  {
+   "line": 32,
+   "file": "day18-line032.mp3",
+   "en": "Okay, done. See you next Friday then!",
+   "bytes": 24192
+  },
+  {
+   "line": 33,
+   "file": "day18-line033.mp3",
+   "en": "See you! Say hello to your family.",
+   "bytes": 23808
+  },
+  {
+   "line": 34,
+   "file": "day18-line034.mp3",
+   "en": "I will. Goodbye, Sara!",
+   "bytes": 19968
+  }
+ ]
+}

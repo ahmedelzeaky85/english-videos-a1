@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 13,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day13-line001.mp3",
+   "en": "What time is it now?",
+   "bytes": 16512
+  },
+  {
+   "line": 2,
+   "file": "day13-line002.mp3",
+   "en": "It is half past ten.",
+   "bytes": 18048
+  },
+  {
+   "line": 3,
+   "file": "day13-line003.mp3",
+   "en": "The meeting starts at quarter past two.",
+   "bytes": 29568
+  },
+  {
+   "line": 4,
+   "file": "day13-line004.mp3",
+   "en": "Today is Monday, the first of June.",
+   "bytes": 28992
+  },
+  {
+   "line": 5,
+   "file": "day13-line005.mp3",
+   "en": "My birthday is in January.",
+   "bytes": 25344
+  },
+  {
+   "line": 6,
+   "file": "day13-line006.mp3",
+   "en": "We have English class on Tuesday.",
+   "bytes": 23808
+  },
+  {
+   "line": 7,
+   "file": "day13-line007.mp3",
+   "en": "The weekend is Friday and Saturday.",
+   "bytes": 24768
+  },
+  {
+   "line": 8,
+   "file": "day13-line008.mp3",
+   "en": "I work from Sunday to Thursday.",
+   "bytes": 23808
+  },
+  {
+   "line": 9,
+   "file": "day13-line009.mp3",
+   "en": "There are twelve months in a year.",
+   "bytes": 28032
+  },
+  {
+   "line": 10,
+   "file": "day13-line010.mp3",
+   "en": "See you next week!",
+   "bytes": 12672
+  }
+ ]
+}
