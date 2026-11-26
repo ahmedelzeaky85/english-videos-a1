@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 21,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day21-line001.mp3",
+   "en": "How much is this shirt?",
+   "bytes": 19968
+  },
+  {
+   "line": 2,
+   "file": "day21-line002.mp3",
+   "en": "It costs two hundred pounds.",
+   "bytes": 23808
+  },
+  {
+   "line": 3,
+   "file": "day21-line003.mp3",
+   "en": "That is too expensive.",
+   "bytes": 19584
+  },
+  {
+   "line": 4,
+   "file": "day21-line004.mp3",
+   "en": "Do you have a cheaper one?",
+   "bytes": 19008
+  },
+  {
+   "line": 5,
+   "file": "day21-line005.mp3",
+   "en": "I am just looking, thank you.",
+   "bytes": 18048
+  },
+  {
+   "line": 6,
+   "file": "day21-line006.mp3",
+   "en": "Can I try it on?",
+   "bytes": 13632
+  },
+  {
+   "line": 7,
+   "file": "day21-line007.mp3",
+   "en": "What size do you wear?",
+   "bytes": 17088
+  },
+  {
+   "line": 8,
+   "file": "day21-line008.mp3",
+   "en": "This color suits you.",
+   "bytes": 15744
+  },
+  {
+   "line": 9,
+   "file": "day21-line009.mp3",
+   "en": "Is there a discount today?",
+   "bytes": 17088
+  },
+  {
+   "line": 10,
+   "file": "day21-line010.mp3",
+   "en": "I will take it.",
+   "bytes": 16128
+  }
+ ]
+}

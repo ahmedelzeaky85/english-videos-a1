@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 23,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day23-line001.mp3",
+   "en": "I live in a small apartment.",
+   "bytes": 22848
+  },
+  {
+   "line": 2,
+   "file": "day23-line002.mp3",
+   "en": "The kitchen is next to the living room.",
+   "bytes": 24768
+  },
+  {
+   "line": 3,
+   "file": "day23-line003.mp3",
+   "en": "There are two bedrooms in my house.",
+   "bytes": 25344
+  },
+  {
+   "line": 4,
+   "file": "day23-line004.mp3",
+   "en": "The bathroom is at the end of the hall.",
+   "bytes": 25728
+  },
+  {
+   "line": 5,
+   "file": "day23-line005.mp3",
+   "en": "Open the window, please.",
+   "bytes": 18048
+  },
+  {
+   "line": 6,
+   "file": "day23-line006.mp3",
+   "en": "The rent is five thousand pounds a month.",
+   "bytes": 35328
+  },
+  {
+   "line": 7,
+   "file": "day23-line007.mp3",
+   "en": "We have a big balcony with a nice view.",
+   "bytes": 33408
+  },
+  {
+   "line": 8,
+   "file": "day23-line008.mp3",
+   "en": "Turn on the air conditioner, it is hot.",
+   "bytes": 27648
+  },
+  {
+   "line": 9,
+   "file": "day23-line009.mp3",
+   "en": "The keys are on the table.",
+   "bytes": 19584
+  },
+  {
+   "line": 10,
+   "file": "day23-line010.mp3",
+   "en": "I clean the house every Friday.",
+   "bytes": 25152
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 28,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day28-line001.mp3",
+   "en": "The cat is sleeping under the chair.",
+   "bytes": 28992
+  },
+  {
+   "line": 2,
+   "file": "day28-line002.mp3",
+   "en": "I see a big bird in the tree.",
+   "bytes": 26112
+  },
+  {
+   "line": 3,
+   "file": "day28-line003.mp3",
+   "en": "My grandfather has a farm with cows.",
+   "bytes": 33408
+  },
+  {
+   "line": 4,
+   "file": "day28-line004.mp3",
+   "en": "The dog runs fast in the garden.",
+   "bytes": 26688
+  },
+  {
+   "line": 5,
+   "file": "day28-line005.mp3",
+   "en": "Fish live in the water.",
+   "bytes": 20352
+  },
+  {
+   "line": 6,
+   "file": "day28-line006.mp3",
+   "en": "I am afraid of snakes.",
+   "bytes": 23424
+  },
+  {
+   "line": 7,
+   "file": "day28-line007.mp3",
+   "en": "The horse is strong and beautiful.",
+   "bytes": 32064
+  },
+  {
+   "line": 8,
+   "file": "day28-line008.mp3",
+   "en": "We planted flowers in the balcony.",
+   "bytes": 24192
+  },
+  {
+   "line": 9,
+   "file": "day28-line009.mp3",
+   "en": "The Nile is the longest river in Egypt.",
+   "bytes": 28608
+  },
+  {
+   "line": 10,
+   "file": "day28-line010.mp3",
+   "en": "The desert is very hot in summer.",
+   "bytes": 27648
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "level": "A1",
+ "day": 24,
+ "count": 35,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day24-line001.mp3",
+   "en": "Hi Omar! Welcome to my new apartment.",
+   "bytes": 28992
+  },
+  {
+   "line": 2,
+   "file": "day24-line002.mp3",
+   "en": "Hi Sara! Thanks for inviting me. The building is nice.",
+   "bytes": 34944
+  },
+  {
+   "line": 3,
+   "file": "day24-line003.mp3",
+   "en": "Thank you! Our apartment is on the third floor.",
+   "bytes": 28224
+  },
+  {
+   "line": 4,
+   "file": "day24-line004.mp3",
+   "en": "Was it easy to find? I took the metro here.",
+   "bytes": 31872
+  },
+  {
+   "line": 5,
+   "file": "day24-line005.mp3",
+   "en": "Very easy. It is next to the bank, near the metro station.",
+   "bytes": 38208
+  },
+  {
+   "line": 6,
+   "file": "day24-line006.mp3",
+   "en": "Yes, I went straight, then turned left like you told me.",
+   "bytes": 37248
+  },
+  {
+   "line": 7,
+   "file": "day24-line007.mp3",
+   "en": "Come in! The living room has a big sofa. Sit down.",
+   "bytes": 40512
+  },
+  {
+   "line": 8,
+   "file": "day24-line008.mp3",
+   "en": "Wow, the kitchen is small but nice.",
+   "bytes": 32064
+  },
+  {
+   "line": 9,
+   "file": "day24-line009.mp3",
+   "en": "And we have a small balcony with a nice view.",
+   "bytes": 29952
+  },
+  {
+   "line": 10,
+   "file": "day24-line010.mp3",
+   "en": "How many bedrooms are there?",
+   "bytes": 21504
+  },
+  {
+   "line": 11,
+   "file": "day24-line011.mp3",
+   "en": "There are three bedrooms in the house. The bathroom is next to my bedroom.",
+   "bytes": 45888
+  },
+  {
+   "line": 12,
+   "file": "day24-line012.mp3",
+   "en": "It is a little dark in here.",
+   "bytes": 22464
+  },
+  {
+   "line": 13,
+   "file": "day24-line013.mp3",
+   "en": "Turn on the light, please. The switch is next to the door.",
+   "bytes": 32064
+  },
+  {
+   "line": 14,
+   "file": "day24-line014.mp3",
+   "en": "Much better! Are you hungry? I am starving.",
+   "bytes": 41664
+  },
+  {
+   "line": 15,
+   "file": "day24-line015.mp3",
+   "en": "Yes! Let us go shopping first. The supermarket is not far.",
+   "bytes": 44928
+  },
+  {
+   "line": 16,
+   "file": "day24-line016.mp3",
+   "en": "How long does the trip take?",
+   "bytes": 21504
+  },
+  {
+   "line": 17,
+   "file": "day24-line017.mp3",
+   "en": "Ten minutes on foot. Go straight, then turn right at the traffic light.",
+   "bytes": 47232
+  },
+  {
+   "line": 18,
+   "file": "day24-line018.mp3",
+   "en": "Okay. What do we need?",
+   "bytes": 16704
+  },
+  {
+   "line": 19,
+   "file": "day24-line019.mp3",
+   "en": "Bread, cheese, eggs, and some fruit. The bread is fresh in the morning.",
+   "bytes": 52032
+  },
+  {
+   "line": 20,
+   "file": "day24-line020.mp3",
+   "en": "How much is the cheese these days?",
+   "bytes": 23232
+  },
+  {
+   "line": 21,
+   "file": "day24-line021.mp3",
+   "en": "It is about eighty pounds a kilo. Prices are high this week.",
+   "bytes": 38592
+  },
+  {
+   "line": 22,
+   "file": "day24-line022.mp3",
+   "en": "No problem. I will pay for the fruit.",
+   "bytes": 24768
+  },
+  {
+   "line": 23,
+   "file": "day24-line023.mp3",
+   "en": "Thank you! That is very kind of you.",
+   "bytes": 25728
+  },
+  {
+   "line": 24,
+   "file": "day24-line024.mp3",
+   "en": "Do they have fresh juice there?",
+   "bytes": 22272
+  },
+  {
+   "line": 25,
+   "file": "day24-line025.mp3",
+   "en": "Yes, and a small café next door. The coffee there is excellent.",
+   "bytes": 51264
+  },
+  {
+   "line": 26,
+   "file": "day24-line026.mp3",
+   "en": "Perfect. We can drink coffee after shopping.",
+   "bytes": 33408
+  },
+  {
+   "line": 27,
+   "file": "day24-line027.mp3",
+   "en": "Good idea. I want a large cappuccino, please!",
+   "bytes": 33408
+  },
+  {
+   "line": 28,
+   "file": "day24-line028.mp3",
+   "en": "And I want black coffee with no sugar. Back to your apartment, do you like living here?",
+   "bytes": 56832
+  },
+  {
+   "line": 29,
+   "file": "day24-line029.mp3",
+   "en": "I love it. Home is the best place. And the neighbors are friendly.",
+   "bytes": 48192
+  },
+  {
+   "line": 30,
+   "file": "day24-line030.mp3",
+   "en": "That is great. Do you clean the house yourself?",
+   "bytes": 33984
+  },
+  {
+   "line": 31,
+   "file": "day24-line031.mp3",
+   "en": "Yes, I clean my room every Friday. It keeps the place fresh.",
+   "bytes": 40128
+  },
+  {
+   "line": 32,
+   "file": "day24-line032.mp3",
+   "en": "Good habit! Okay, let us go. The supermarket closes at ten.",
+   "bytes": 46848
+  },
+  {
+   "line": 33,
+   "file": "day24-line033.mp3",
+   "en": "You are right, we are late! The keys are on the table. Let me take them.",
+   "bytes": 49152
+  },
+  {
+   "line": 34,
+   "file": "day24-line034.mp3",
+   "en": "Haha, do not forget your wallet this time!",
+   "bytes": 29952
+  },
+  {
+   "line": 35,
+   "file": "day24-line035.mp3",
+   "en": "Very funny! Come on, let us go.",
+   "bytes": 28608
+  }
+ ]
+}

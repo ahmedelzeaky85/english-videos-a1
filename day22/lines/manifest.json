@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 22,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day22-line001.mp3",
+   "en": "Where is the bus stop?",
+   "bytes": 17472
+  },
+  {
+   "line": 2,
+   "file": "day22-line002.mp3",
+   "en": "Go straight, then turn left.",
+   "bytes": 23424
+  },
+  {
+   "line": 3,
+   "file": "day22-line003.mp3",
+   "en": "Is the station far from here?",
+   "bytes": 18432
+  },
+  {
+   "line": 4,
+   "file": "day22-line004.mp3",
+   "en": "It is next to the bank.",
+   "bytes": 16512
+  },
+  {
+   "line": 5,
+   "file": "day22-line005.mp3",
+   "en": "I take the metro to work.",
+   "bytes": 19584
+  },
+  {
+   "line": 6,
+   "file": "day22-line006.mp3",
+   "en": "The taxi is waiting outside.",
+   "bytes": 24192
+  },
+  {
+   "line": 7,
+   "file": "day22-line007.mp3",
+   "en": "How long does the trip take?",
+   "bytes": 21504
+  },
+  {
+   "line": 8,
+   "file": "day22-line008.mp3",
+   "en": "Turn right at the traffic light.",
+   "bytes": 21888
+  },
+  {
+   "line": 9,
+   "file": "day22-line009.mp3",
+   "en": "We are late, the train leaves at nine.",
+   "bytes": 29184
+  },
+  {
+   "line": 10,
+   "file": "day22-line010.mp3",
+   "en": "Can you show me on the map?",
+   "bytes": 21888
+  }
+ ]
+}
