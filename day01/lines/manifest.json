@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 1,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day01-line001.mp3",
+   "en": "Good morning! How are you today?",
+   "bytes": 18432
+  },
+  {
+   "line": 2,
+   "file": "day01-line002.mp3",
+   "en": "I'm doing great, thanks for asking!",
+   "bytes": 18432
+  },
+  {
+   "line": 3,
+   "file": "day01-line003.mp3",
+   "en": "What's your name?",
+   "bytes": 11904
+  },
+  {
+   "line": 4,
+   "file": "day01-line004.mp3",
+   "en": "Nice to meet you!",
+   "bytes": 11904
+  },
+  {
+   "line": 5,
+   "file": "day01-line005.mp3",
+   "en": "Where are you from?",
+   "bytes": 13824
+  },
+  {
+   "line": 6,
+   "file": "day01-line006.mp3",
+   "en": "I'm from Egypt.",
+   "bytes": 14208
+  },
+  {
+   "line": 7,
+   "file": "day01-line007.mp3",
+   "en": "What do you do for a living?",
+   "bytes": 17472
+  },
+  {
+   "line": 8,
+   "file": "day01-line008.mp3",
+   "en": "I'm a doctor. How about you?",
+   "bytes": 20928
+  },
+  {
+   "line": 9,
+   "file": "day01-line009.mp3",
+   "en": "It was nice talking to you.",
+   "bytes": 16128
+  },
+  {
+   "line": 10,
+   "file": "day01-line010.mp3",
+   "en": "See you soon! Take care!",
+   "bytes": 18048
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 5,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day05-line001.mp3",
+   "en": "What day is today?",
+   "bytes": 18048
+  },
+  {
+   "line": 2,
+   "file": "day05-line002.mp3",
+   "en": "Today is Saturday.",
+   "bytes": 17088
+  },
+  {
+   "line": 3,
+   "file": "day05-line003.mp3",
+   "en": "Tomorrow is Sunday.",
+   "bytes": 17088
+  },
+  {
+   "line": 4,
+   "file": "day05-line004.mp3",
+   "en": "How is the weather today?",
+   "bytes": 16704
+  },
+  {
+   "line": 5,
+   "file": "day05-line005.mp3",
+   "en": "It is sunny and hot.",
+   "bytes": 22272
+  },
+  {
+   "line": 6,
+   "file": "day05-line006.mp3",
+   "en": "It is cold in the winter.",
+   "bytes": 18624
+  },
+  {
+   "line": 7,
+   "file": "day05-line007.mp3",
+   "en": "I like the summer.",
+   "bytes": 13632
+  },
+  {
+   "line": 8,
+   "file": "day05-line008.mp3",
+   "en": "It is raining today.",
+   "bytes": 18624
+  },
+  {
+   "line": 9,
+   "file": "day05-line009.mp3",
+   "en": "What is your favorite day?",
+   "bytes": 17472
+  },
+  {
+   "line": 10,
+   "file": "day05-line010.mp3",
+   "en": "Have a nice weekend!",
+   "bytes": 14592
+  }
+ ]
+}

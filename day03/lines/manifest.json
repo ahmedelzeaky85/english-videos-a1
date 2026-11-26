@@ -1,0 +1,68 @@
+{
+ "level": "A1",
+ "day": 3,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day03-line001.mp3",
+   "en": "How old are you?",
+   "bytes": 15552
+  },
+  {
+   "line": 2,
+   "file": "day03-line002.mp3",
+   "en": "I am twenty-six years old.",
+   "bytes": 26304
+  },
+  {
+   "line": 3,
+   "file": "day03-line003.mp3",
+   "en": "What is your phone number?",
+   "bytes": 17664
+  },
+  {
+   "line": 4,
+   "file": "day03-line004.mp3",
+   "en": "One, two, three, four, five.",
+   "bytes": 45312
+  },
+  {
+   "line": 5,
+   "file": "day03-line005.mp3",
+   "en": "Six, seven, eight, nine, ten.",
+   "bytes": 46464
+  },
+  {
+   "line": 6,
+   "file": "day03-line006.mp3",
+   "en": "Eleven, twelve, thirteen.",
+   "bytes": 37248
+  },
+  {
+   "line": 7,
+   "file": "day03-line007.mp3",
+   "en": "My birthday is in June.",
+   "bytes": 19392
+  },
+  {
+   "line": 8,
+   "file": "day03-line008.mp3",
+   "en": "How many people are in your family?",
+   "bytes": 25152
+  },
+  {
+   "line": 9,
+   "file": "day03-line009.mp3",
+   "en": "We are five people.",
+   "bytes": 20928
+  },
+  {
+   "line": 10,
+   "file": "day03-line010.mp3",
+   "en": "Count with me!",
+   "bytes": 10368
+  }
+ ]
+}
